@@ -4,6 +4,6 @@
 <br />
 <strong>Office Location:</strong> <a href="https://maps.app.goo.gl/sTBLkKCDBaAD81eA9">Room 5125, 614 E. Daniel St.</a>
 <br />
-<strong>Email:</strong> <email>lyy (at) illinois.edu</email>
+<strong>Email:</strong> <email>yingchen.econ (at) outlook.com</email>
 <br />
 <strong>Phone:</strong> (217) 300-0910</p>
