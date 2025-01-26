@@ -3,7 +3,7 @@ title: Ying Chen
 position: Research Fellow
 affiliation: University of Nottingham Ningbo China
 affiliation_link: https://www.nottingham.edu.cn/en/index.aspx
-affiliation_logo: ./assets/img/favicon.png
+affiliation_logo: ./assets/img/illinois.svg
 email: yingchen.ecom (at) outlook.com
 
 # Search Engine Optimization (SEO)
@@ -27,6 +27,7 @@ twitter: https://twitter.com/YaoyaoLiu1/
 # Images 
 # avatar: https://img.yliu.me/avatar_new.jpg
 avatar: ./assets/img/avatar.jpg
+favicon: ./assets/img/favicon.png
 
 # Footnotes
 footnote: Feel free to use my website's source code.
