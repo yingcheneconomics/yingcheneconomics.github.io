@@ -1,0 +1,32 @@
+📁 如何添加个人文件
+
+本模板需要您添加以下个人文件才能完整使用：
+
+1. 个人照片 (profile.jpg 或 profile.png)
+   - 建议尺寸：400x400 像素或更大
+   - 格式：JPG 或 PNG
+   - 放在根目录
+
+2. 个人简历 (cv.pdf)
+   - 格式：PDF
+   - 放在根目录
+   - 或修改 index.html 中的链接指向你的简历位置
+
+3. 论文 PDF 文件
+   - 建议创建 papers/ 文件夹
+   - 将所有论文 PDF 放入该文件夹
+   - 在 index.html 中更新对应的链接
+
+文件结构示例：
+├── index.html
+├── styles.css
+├── script.js
+├── profile.jpg          ← 添加你的照片
+├── cv.pdf              ← 添加你的简历
+└── papers/             ← 创建此文件夹
+    ├── paper1.pdf
+    ├── paper2.pdf
+    └── appendix1.pdf
+
+注意：这些文件需要您自己准备和上传！
+

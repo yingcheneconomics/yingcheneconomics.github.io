@@ -1,0 +1,27 @@
+# 操作系统文件
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# 编辑器和 IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.project
+.settings/
+
+# 临时文件
+*.tmp
+*.bak
+*.log
+
+# 备份文件
+*.backup
+backup/
+
+# 草稿文件
+drafts/
+temp/
+
