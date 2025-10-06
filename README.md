@@ -63,10 +63,11 @@
 
 ### 添加个人照片
 
-1. 准备一张个人照片（建议尺寸：400x400 像素以上）
-2. 将照片命名为 `profile.jpg` 或 `profile.png`
-3. 上传到仓库根目录
-4. 照片会自动显示（无需修改代码）
+1. 创建 `image/` 文件夹
+2. 准备一张个人照片（建议尺寸：400x400 像素以上）
+3. 将照片命名为 `profile.jpg` 或 `profile.png`
+4. 上传到 `image/` 文件夹
+5. 照片会自动显示（无需修改代码）
 
 ### 添加研究主题和论文
 
@@ -183,8 +184,13 @@ your-repo/
 ├── index.html       # 主页面
 ├── styles.css       # 样式表
 ├── README.md        # 说明文档
-├── profile.jpg      # 个人照片（需要自己添加）
-├── cv.pdf           # 简历 PDF（需要自己添加）
+├── cv/              # 简历文件夹（需要自己创建）
+│   └── cv.pdf      # 简历 PDF
+├── image/           # 图片文件夹（需要自己创建）
+│   ├── profile.jpg  # 个人照片
+│   ├── favicon-32x32.png    # 网站图标
+│   ├── favicon-16x16.png
+│   └── apple-touch-icon.png
 └── papers/          # 论文文件夹（需要自己创建）
     ├── paper1.pdf
     └── paper2.pdf
