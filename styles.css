@@ -333,7 +333,7 @@ body {
     }
     
     .profile-photo {
-        max-width: 180px;
+        display: none;
     }
     
     .profile-layout {
@@ -362,11 +362,11 @@ body {
         display: block;
     }
     
-    .topic {
-        page-break-inside: avoid;
+    .profile-photo {
+        display: none;
     }
     
-    .footer {
-        display: none;
+    .topic {
+        page-break-inside: avoid;
     }
 }
